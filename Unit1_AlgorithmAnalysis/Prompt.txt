@@ -1,0 +1,15 @@
+UNIT I - PROJECT 2: RECURSION TREE FOR MERGE SORT
+AI tool used: Claude
+
+1. Pseudocode / Algorithm
+"Write the pseudocode for Merge Sort and explain how the algorithm works in simple words."
+
+2. Code
+"Write a Python program for Merge Sort on an array of 8 elements that follows the pseudocode."
+
+3. Visualization
+"Draw a recursion tree for Merge Sort dividing an array of 8 elements."
+"Create an interactive step-by-step visualizer of the Merge Sort recursion tree where I can pause anytime."
+
+4. Presentation (document)
+"Write a presentation document that explains the Merge Sort process step by step using the visualization picture."
