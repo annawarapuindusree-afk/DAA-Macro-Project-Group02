@@ -45,7 +45,7 @@ The prompts used for the pseudocode, code and visualizations are listed in [`Pro
 
 ![Merge sort recursion tree](Visualization/Visualization.png)
 
-**2. Interactive step-by-step visualizer** – [▶️ Open Merge Sort Visualizer](https://24wh1a0541-ux.github.io/DAAPROJECT/Unit1_AlgorithmAnalysis/Visualization/MergeSort_Interactive.html)
+**2. Interactive step-by-step visualizer** – [▶️ Open Merge Sort Visualizer](https://annawarapuindusree-afk.github.io/DAA-Macro-Project-Group02/Unit1_AlgorithmAnalysis/Visualization/MergeSort_Interactive.html)
 
 It has Play / Pause, Next / Back, a step slider, a speed control, and you can type your own 8 numbers.
 
@@ -85,3 +85,4 @@ Unit1_AlgorithmAnalysis/
 - Understood why Merge Sort runs in O(n log n) time.
 - Learned prompt-based visualization.
 - Practiced GitHub documentation.
+
