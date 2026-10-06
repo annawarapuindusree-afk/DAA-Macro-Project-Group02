@@ -1,0 +1,35 @@
+Project: Sum of Subsets Tree using Backtracking
+
+Prompt:
+
+Create a state-space tree visualization for the Sum of Subsets problem using the Backtracking algorithm.
+
+The visualization should work conceptually for any given set of integers and a target sum.
+
+At each level of the state-space tree, consider one element of the set and show the following two choices:
+
+1. Include the current element in the subset.
+2. Exclude the current element from the subset.
+
+Each node should display:
+- The elements currently selected in the subset.
+- The current sum.
+- The decision made (Include or Exclude).
+
+Continue exploring the tree recursively until all elements have been considered.
+
+Clearly identify:
+- Successful branches where the subset sum equals the target.
+- Unsuccessful branches where the target is not achieved.
+- Backtracking from one branch to explore another possible subset.
+
+Use the following example to demonstrate the visualization:
+
+Set = {5, 10, 12}
+Target Sum = 15
+
+For this example, highlight {5, 10} as a successful subset because:
+
+5 + 10 = 15
+
+Generate a clear, structured, academic state-space tree suitable for a Design and Analysis of Algorithms project.
