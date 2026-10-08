@@ -1,0 +1,42 @@
+Create a clean professional academic flowchart for the algorithm
+"Greedy Job Sequencing with Deadlines and Profits".
+
+The flowchart should show the complete decision-making process:
+
+START
+↓
+Input jobs with job ID, deadline and profit
+↓
+Sort jobs in decreasing order of profit
+↓
+Find maximum deadline
+↓
+Create empty time slots
+↓
+Select the next highest-profit job
+↓
+Check the latest available slot at or before the job's deadline
+↓
+Decision: Is the slot available?
+If YES: schedule the job, add its profit to total profit, and move to the next job.
+If NO: check the previous slot.
+If no slot exists before the deadline, reject the job.
+↓
+Decision: Are there more jobs?
+If YES: continue processing jobs.
+If NO: calculate total profit.
+↓
+END
+
+Use standard flowchart conventions:
+- oval for Start/End
+- rectangles for processing steps
+- diamonds for decisions
+- arrows showing direction
+- clearly labeled YES and NO branches
+
+Make the diagram visually clean, readable, professional and suitable
+for a college Algorithms project presentation.
+Use a light background, clear typography, minimal decoration,
+and ensure all text is spelled correctly.
+Do not add unnecessary illustrations.
