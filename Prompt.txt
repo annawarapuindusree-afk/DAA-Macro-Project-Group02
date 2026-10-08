@@ -1,0 +1,34 @@
+Create a clear educational search tree visualization for the Travelling Salesperson Problem (TSP) using the Branch-and-Bound technique with 4 cities: A, B, C, and D.
+
+Use the following distance matrix:
+
+      A   B   C   D
+A     0  10  15  20
+B    10   0  35  25
+C    15  35   0  30
+D    20  25  30   0
+
+Show the search tree starting from city A.
+
+For each branch, display:
+- Current partial tour
+- Current path cost
+- Lower bound
+- Whether the branch is explored or pruned
+
+Clearly show:
+1. Start from city A.
+2. Generate possible branches to B, C, and D.
+3. Calculate the lower bound for each branch.
+4. Expand promising branches.
+5. Prune branches that cannot improve the current best solution.
+6. Continue until an optimal complete tour is obtained.
+
+Clearly mark the optimal tour:
+A → B → D → C → A
+
+Minimum cost: 80
+
+Make the diagram clean, readable, academic, and suitable for a Data Structures and Algorithms macro project.
+
+Title: TSP Branch-and-Bound Search Tree
